@@ -1,0 +1,78 @@
+{
+  "movements": [
+    {
+      "title": "Ruck Squat",
+      "description": ""
+    },
+    {
+      "title": "Lunges",
+      "description": ""
+    },
+    {
+      "title": "Ruck Overhead Squat",
+      "description": ""
+    },
+    {
+      "title": "Push-up",
+      "description": ""
+    },
+    {
+      "title": "Ruck High Pull",
+      "description": ""
+    },
+    {
+      "title": "Overhead Shoulder Press",
+      "description": ""
+    },
+    {
+      "title": "Bear Crawl",
+      "description": ""
+    },
+    {
+      "title": "Suitcase Carry",
+      "description": ""
+    },
+    {
+      "title": "Russian Twist",
+      "description": ""
+    },
+    {
+      "title": "Plank Pulls",
+      "description": ""
+    },
+    {
+      "title": "Ruck Swings",
+      "description": ""
+    },
+    {
+      "title": "Thruster",
+      "description": ""
+    },
+    {
+      "title": "Deadlift",
+      "description": ""
+    }
+  ],
+  "reps": {
+    "options": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "default": 1
+  },
+  "rounds": {
+    "options": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "default": 1
+  }
+}
